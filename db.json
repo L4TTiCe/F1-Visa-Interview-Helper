@@ -27,7 +27,8 @@
         "Good.. Will you be pursuing any Specialization?": null,
         "... typing": null
       },
-      "Why have you chosen this course?": null
+      "Why have you chosen this course?": null,
+      "What other Universities you had applied to?": null
     }
   },
   "_finances": {
@@ -49,10 +50,11 @@
     "What are your plans after Master's?": null,
     "Will you apply for H1-B after Masters?": null,
     "Will you take OPT/OPT Extension after Masters? Why?": null,
-    "If your parents are sposoring your MS, won't it affter their standard of living?": null
+    "If your parents are sposoring your MS, won't it affect their standard of living?": null,
+    "How much of your Loan will you be using for your first year?": null
   },
   "_exit": {
     "Great, I'm approving your visa": null,
-    "Your visa is approved": null
+    "Your visa is approved, Congratulations": null
   }
 }
