@@ -11,7 +11,7 @@
     "Hi, Pass me your Passport, I-20 and SEVIS Receipt": null
   },
   "_education": {
-    "Where did you do your undergraduation?": {
+    "Where did you do for your undergraduation?": {
       "When did you graduate?": {
         "... typing": null
       },
@@ -28,7 +28,10 @@
         "... typing": null
       },
       "Why have you chosen this course?": null,
-      "What other Universities you had applied to?": null
+      "What other Universities you had applied to?": {
+        "... typing": null,
+        "Why Northeastern?": null
+      }
     }
   },
   "_finances": {

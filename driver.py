@@ -11,6 +11,7 @@ flow = [
     ["_greeting", "_finances", "_grill", "_exit"],
     ["_greeting", "_education", "_finances", "_grill", "_exit"],
     ["_greeting", "_aboutNEU", "_education", "_exit"],
+    ["_greeting", "_aboutNEU", "_education", "_finances", "_exit"],
 ]
 
 while (True):
