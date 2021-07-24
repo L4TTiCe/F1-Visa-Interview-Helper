@@ -11,18 +11,19 @@
     "Hi, Pass me your Passport, I-20 and SEVIS Receipt": null
   },
   "_education": {
-    "Where did you do for your undergraduation?": {
+    "Tell me about your background": null,
+    "Where did you do your undergraduation?": {
       "When did you graduate?": {
         "... typing": null
       },
       "... typing": null
     },
-    "What was your major in undergarduate?": null,
-    "Have you given any test like GRE": null
+    "What was your major in undergraduate?": null,
+    "Have you given any test like G.R.E.?": null
   },
   "_aboutNEU": {
     "So... Northeastern University": {
-      "Why Northeastern?": null,
+      "Why this University?": null,
       "What course will you be pursuing?": {
         "Good.. Will you be pursuing any Specialization?": null,
         "... typing": null
@@ -30,12 +31,12 @@
       "Why have you chosen this course?": null,
       "What other Universities you had applied to?": {
         "... typing": null,
-        "Why Northeastern?": null
+        "Why this University?": null
       }
     }
   },
   "_finances": {
-    "How will you be funding your education": {
+    "How will you be funding your education?": {
       "Where does your father work?": {
         "What is their annual income?": null,
         "... typing": null
@@ -58,6 +59,6 @@
   },
   "_exit": {
     "Great, I'm approving your visa": null,
-    "Your visa is approved, Congratulations": null
+    "Your visa is approved, Congratulations!": null
   }
 }
